@@ -1,4 +1,4 @@
-#Voor en achternaam: Charaf Oualid
+#Voor en achternaam: Mohamed Charaf Oualid
 #uid: charafoualid
 #email: mc.oualid@student.avans.nl
 
