@@ -1,5 +1,6 @@
-#Charaf Oualid
-#userid: charafoualid
+#Voor en achternaam: Charaf Oualid
+#uid: charafoualid
+#email: mc.oualid@student.avans.nl
 
 #:wave: The Basics of GitHub 
 
